@@ -1,3 +1,4 @@
 # NodeJS simple server
 
-In this example, we create an endpoint named "/suma", that allows to perform add operation over all input data using a GET Request.
+Para este ejemplo, se crearon las funciones "/suma" , "/multiplicacion" y "/fibbonacci", las cuales se manejan mediante argumentos pasados por metodos GET. 
+
